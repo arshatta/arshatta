@@ -1,7 +1,7 @@
 [![Header](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80)](https://www.instagram.com/arshatta/)
 
 ## I'm Software Engineer 
-Studying in the Astana IT University, 2 course
+Studying in the Astana IT University, 2 course. Looking for a internship/job.
 
 ## Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
