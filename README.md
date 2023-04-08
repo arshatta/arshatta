@@ -1,7 +1,7 @@
 [![Header](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80)](https://www.instagram.com/arshatta/)
 
 ## I'm Software Engineer 
-I am looking for a position as a software engineer in the organization where I can utilize my skills at understanding and testing software and the opportunity to upgrade my knowledge about the new and emerging trends in the sector.
+I am looking for a position as a Junior iOS Developer in the organization where I can utilize my skills at understanding and testing apps and the opportunity to upgrade my knowledge about the new and emerging trends in the sector
 
 ## Programming Languages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
